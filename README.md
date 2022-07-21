@@ -1,7 +1,5 @@
 # Banking System Project using C++
 * A simple code in C++ on banking system Can perform basic tasks like :-
-
-     Select one option below -
      
         1. Open an Account       
         2. Balance Enquiry       
