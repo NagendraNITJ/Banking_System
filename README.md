@@ -9,7 +9,7 @@
         6. Show All Accounts     
         7. Quit 
 
-> It stores previous data using file handling.
+>   Specificity of this project is "It stores previous data using file handling ".
 
 ## Links
 
